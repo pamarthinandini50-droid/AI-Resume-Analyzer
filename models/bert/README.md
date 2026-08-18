@@ -1,1 +1,0 @@
-BERT model files
